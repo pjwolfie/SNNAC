@@ -20,7 +20,7 @@
 </article>
 
 <section>
-A group of related content
+Other group of related content
 </section>
 <p></p>
 <aside>
