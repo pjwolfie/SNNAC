@@ -14,7 +14,9 @@
 
 <main role="main">
 <article>
-<h2>Title 1</h2>
+<h2>Project Goals:</h2>
+	<li><a>Create User Experiences</a>
+	<li><a>Allow Access to Group Activities</a>
 <p>Content 1</p>
 </article>
 <article>
