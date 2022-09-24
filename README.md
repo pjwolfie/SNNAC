@@ -7,11 +7,11 @@
 	<body>The purpose of this project is to create a portable device for granting access confirmed by NFT ownership.
 		
 <article>
-<h2>Project Goals:</h2>
-	<li><a>Allow Access to Group Activities</a>
-	<li><a>Create User Experiences</a>
-	<li><a>Encourage Participation and Growth in Related Technologies</a>
-<p>Content 1</p>
+	<h2>Project Goals:</h2>
+		<li><a>Allow Access to Group Activities</a>
+		<li><a>Create User Experiences</a>
+		<li><a>Encourage Participation and Growth in Related Technologies</a>
+	<p>Content 1</p>
 
 <article>
 <h2>Timeline and Milestones</h2>
@@ -30,9 +30,9 @@ Sidebar
 	<ul>
 	<li><a href="/">Home</a>
 	<li><a href="/link">Page</a>
-<address>
-	
-Contact <a href="mailto:">Desert Blockchain</a>
-</address>
+	</ul>
+		<address>
+		Contact <a href="mailto:">Desert Blockchain</a>
+		</address>
 </footer>
 
