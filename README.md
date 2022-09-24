@@ -14,7 +14,7 @@
 <p>Content 1</p>
 
 <article>
-<h2>Title 2</h2>
+<h2>Timeline and Milestones</h2>
 <p>Content 2</p>
 </article>
 </main>
