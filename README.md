@@ -8,7 +8,7 @@
 			
 		
 <header>
-<div id="logo">HTML</div>
+<div id="logo"></div>
 <nav>  
 <ul>
 	<li><a href="/">Home</a>
