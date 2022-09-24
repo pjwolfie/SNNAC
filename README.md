@@ -10,9 +10,7 @@
 <header>
 <div id="logo"></div>
 <nav>  
-<ul>
-	<li><a href="/">Home</a>
-	<li><a href="/link">Page</a>
+
 <main role="main">
 <article>
 <h2>Title 1</h2>
@@ -30,8 +28,13 @@ A group of related content
 Sidebar
 </aside>
 <footer>
-<p>&copy; HTML CheatSheet</p>
+<p></p>
+	<p>For more information click the following links:</p>
+	<ul>
+	<li><a href="/">Home</a>
+	<li><a href="/link">Page</a>
 <address>
+	
 Contact <a href="mailto:">me</a>
 </address>
 </footer>
