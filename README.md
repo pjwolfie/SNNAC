@@ -36,7 +36,7 @@ Sidebar
 	<li><a href="/link">Page</a>
 <address>
 	
-Contact <a href="mailto:">me</a>
+Contact <a href="mailto:">Desert Blockchain</a>
 </address>
 </footer>
 
