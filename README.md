@@ -6,13 +6,6 @@
 	</head>
 	<body>The purpose of this project is to create a portable device for granting access confirmed by NFT ownership.
 		
-			
-		
-<header>
-<div id="logo"></div>
-<nav>  
-
-<main role="main">
 <article>
 <h2>Project Goals:</h2>
 	<li><a>Allow Access to Group Activities</a>
