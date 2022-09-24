@@ -12,27 +12,26 @@
 		<li><a>Create User Experiences</a>
 		<li><a>Encourage Participation and Growth in Related Technologies</a>
 	<p>Content 1</p>
-
+</article>
 <article>
-
-<h2>Timeline and Milestones</h2>
+	<h2>Timeline and Milestones</h2>
 	<p>Content 2</p>
 </article>
 
 <section>
-Other group of related content
+	Other group or related content
 </section>
 <p></p>
 <aside>
-Sidebar
+	Create Sidebar Here
 </aside>
 <footer>
-<p></p>
+	<p></p>
 	<p>For more information click the following links:</p>
 	<ul>
 	<li><a href="/">Home</a>
 	<li><a href="/link">Page</a>
-		<p></p>
-		<address>
+	<p></p>
+	<address>
 		Contact <a href="mailto:">Desert Blockchain</a>
-		</address>
+	</address>
