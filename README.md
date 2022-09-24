@@ -13,9 +13,6 @@
 <ul>
 	<li><a href="/">Home</a>
 	<li><a href="/link">Page</a>
-</ul>
-</nav>
-</header>
 <main role="main">
 <article>
 <h2>Title 1</h2>
@@ -35,7 +32,7 @@ Sidebar
 <footer>
 <p>&copy; HTML CheatSheet</p>
 <address>
-Contact <a href="mailto:me@htmlg.com">me</a>
+Contact <a href="mailto:">me</a>
 </address>
 </footer>
 
