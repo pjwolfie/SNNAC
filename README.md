@@ -17,7 +17,7 @@
 <h2>Timeline and Milestones</h2>
 <p>Content 2</p>
 </article>
-</main>
+
 <section>
 A group of related content
 </section>
