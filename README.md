@@ -11,11 +11,11 @@
 		<li><a>Allow Access to Group Activities</a>
 		<li><a>Create User Experiences</a>
 		<li><a>Encourage Participation and Growth in Related Technologies</a>
-	<p>Add Content Here</p>
+	<p>Add More Content Here</p>
 </article>
 <article>
-	<h2>Timeline and Milestones</h2>
-	<p>Add Content Here</p>
+	<h2>Timeline and Milestones:</h2>
+	<p>Add More Content Here</p>
 </article>
 <p></p>
 <section>
