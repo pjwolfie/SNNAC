@@ -34,5 +34,3 @@ Sidebar
 		<address>
 		Contact <a href="mailto:">Desert Blockchain</a>
 		</address>
-</footer>
-
