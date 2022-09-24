@@ -3,8 +3,8 @@
 	<head>
 	<!--	<h1>SNNAC - STELLAR NFT NFC ACCESS CONTROL</h1>-->
 	</head>
-	<body>
-			
+	<body>The purpose of this project is to create a portable device for granting access confirmed by NFT ownership.
+	</body>		
 			
 		
 
