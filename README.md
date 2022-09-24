@@ -14,13 +14,15 @@
 	<p>Content 1</p>
 
 <article>
+
 <h2>Timeline and Milestones</h2>
-<p>Content 2</p>
+	<p>Content 2</p>
 </article>
 
 <section>
 A group of related content
 </section>
+<p></p>
 <aside>
 Sidebar
 </aside>
