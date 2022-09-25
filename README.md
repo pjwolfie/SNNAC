@@ -16,7 +16,7 @@
 		<li><a>Create Community Experiences</a>
 		<li><a>Encourage Participation and Growth in Emerging Technologies</a>
 		<li><a>Provide and Unlock Value to Desert Blockchain Citizen Memberships</a>
-		<li><a>Develop a Prototype for Use by Other Group and Communities</a>	
+		<li><a>Develop a Prototype for Use by Other Groups and Communities</a>	
 	<p>Additional Content Will Be Added Here</p>
 <article>
 	<h2>Timeline and Milestones:</h2>
