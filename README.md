@@ -1,5 +1,4 @@
 # STELLAR NFT NFC ACCESS CONTROL
-<p></p>
 <DOCTYPE html>
 	<body style="background-color:#8FBC8F;">
 	<head>
@@ -40,3 +39,4 @@
 	<address>
 		Contact <a href="mailto:JayCarpenter@DesertBlockchain.com">Desert Blockchain</a>
 	</address>
+		</html>
