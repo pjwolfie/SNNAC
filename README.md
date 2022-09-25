@@ -8,7 +8,7 @@
 	<p></p>
 	<p>Click on this link to watch this video which reveals the purpose of the SNNAC Project:</p>
 	<body>
-		https://www.youtube.com/watch?v=Y_vGJ4IYsvQ
+		<iframe width="1280" height="720" src="https://www.youtube.com/embed/Y_vGJ4IYsvQ" title="Stellar NFT NFC Access Control (SNNAC) Project for SCF#11" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</body>
 	<article>
 	<h2>Project Goals:</h2>
