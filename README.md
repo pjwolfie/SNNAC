@@ -4,7 +4,7 @@
 	<head>
 		<!--	<h1>SNNAC - STELLAR NFT NFC ACCESS CONTROL</h1>-->
 	</head>
-	<body>The purpose of this project is to create a portable device for granting access confirmed by NFT ownership.
+	<body>The purpose of this project is to create a portable device for granting access confirmed by ownership of an NFT on the Stellar Network.
 	<p></p>
 	<p>Click on the video below which reveals more about the SNNAC Project:</p>
 	<body>
