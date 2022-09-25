@@ -8,8 +8,7 @@
 	<p></p>
 	<p>Click on this link to watch this video which reveals the purpose of the SNNAC Project:</p>
 	<body>
-		<iframe width="420" height="345" src="https://www.youtube.com/embed/Y_vGJ4IYsvQ">
-		</iframe>
+		[https://www.youtube.com/embed/Y_vGJ4IYsvQ](https://www.youtube.com/watch?v=Y_vGJ4IYsvQ)
 	</body>
 	<article>
 	<h2>Project Goals:</h2>
