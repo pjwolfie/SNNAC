@@ -19,14 +19,14 @@
 	<p>Add More Content Here</p>
 <article>
 	<h2>Timeline and Milestones:</h2>
-	<p>Add More Content Here</p>
+	<p>Content Will Be Developed and Added Here</p>
 <p></p>
 <section>
-	Other group or related content
+	Other group or related content to be added.
 </section>
 <p></p>
 <aside>
-	Create Sidebar Here
+	Create Sidebar To Previous and Upcoming Activites
 </aside>
 <footer>
 	<p></p>
