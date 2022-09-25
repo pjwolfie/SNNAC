@@ -32,8 +32,8 @@
 	<p></p>
 	<p>For more information click the following links:</p>
 	<ul>
-	<li><a href="https://desertblockchain.com/">Home</a>
-	<li><a href="/link">Page</a>
+	<li><a href="https://desertblockchain.com/">Desert Blockchain Home Page</a>
+	<li><a href="https://www.meetup.com/desert-blockchain/">Desert Blockchain Meetup</a>
 	<p></p>
 	<address>
 		Contact <a href="mailto:">Desert Blockchain</a>
