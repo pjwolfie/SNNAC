@@ -15,6 +15,7 @@
 		<li><a>Allow Access to Group Activities</a>
 		<li><a>Create User Experiences</a>
 		<li><a>Encourage Participation and Growth in Related Technologies</a>
+		<li><a>Provide Value to Membership of Desert Blockchain Citizens</a>
 	<p>Add More Content Here</p>
 <article>
 	<h2>Timeline and Milestones:</h2>
@@ -31,7 +32,7 @@
 	<p></p>
 	<p>For more information click the following links:</p>
 	<ul>
-	<li><a href="/">Home</a>
+	<li><a href="https://desertblockchain.com/">Home</a>
 	<li><a href="/link">Page</a>
 	<p></p>
 	<address>
