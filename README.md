@@ -20,7 +20,9 @@
 	<p>Additional Content Will Be Added Here</p>
 <article>
 	<h2>Timeline and Milestones:</h2>
+	<p>9/17/22 & 9/24/22 - Meet to discuss overall project goals and Stellar #11 Application Submission</p>
 	<p>Content Will Be Developed and Added Here</p>
+	<p>Additional Content Will Be Developed and Added Here</p>
 <p></p>
 <section>
 	Other group or related content to be added
