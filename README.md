@@ -30,6 +30,7 @@
 </aside>
 <footer>
 	<p></p>
+	<h2>Contact and Additional Information:</h2>
 	<p>For more information click the following links:</p>
 	<ul>
 	<li><a href="https://desertblockchain.com/">Desert Blockchain Home Page</a>
