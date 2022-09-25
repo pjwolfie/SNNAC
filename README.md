@@ -15,7 +15,7 @@
 		<li><a>Allow Access to Group Activities and Special Events</a>
 		<li><a>Create Community Experiences</a>
 		<li><a>Encourage Participation and Growth in Emerging Technologies</a>
-		<li><a>Provide Value to Desert Blockchain Citizen Members</a>
+		<li><a>Provide and Unlock Value to Desert Blockchain Citizen Members</a>
 	<p>Additional Content Will Be Added Here</p>
 <article>
 	<h2>Timeline and Milestones:</h2>
