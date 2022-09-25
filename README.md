@@ -17,16 +17,16 @@
 		<li><a>Encourage Participation and Growth in Emerging Technologies</a>
 		<li><a>Provide and Unlock Value to Desert Blockchain Citizen Memberships</a>
 		<li><a>Develop a Prototype for Use by Other Groups and Communities</a>	
-	<p>Additional Content Will Be Added Here</p>
+	<p></p>
 <article>
 	<h2>Timeline and Milestones:</h2>
 	<p>9/17/22 & 9/24/22 - Meet to discuss overall project goals and Stellar Community Fund (SCF) #11 Application Submission</p>
 	<img src="SNNAC-NFT-Logo2.jpg"><img src="SNNAC-Refrigerator2.jpg">
 	<p>9/25/22 - Submit SCF #11 Application</p>
-	<p>Additional Content Will Be Developed and Added Here</p>
+	<p></p>
 <p></p>
 <section>
-	Other group or related content to be added
+	
 </section>
 <p></p>
 <aside>
