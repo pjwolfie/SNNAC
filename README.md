@@ -22,7 +22,7 @@
 	<p>Content Will Be Developed and Added Here</p>
 <p></p>
 <section>
-	Other group or related content to be added.
+	Other group or related content to be added
 </section>
 <p></p>
 <aside>
