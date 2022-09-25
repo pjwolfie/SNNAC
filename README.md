@@ -36,5 +36,5 @@
 	<li><a href="https://www.meetup.com/desert-blockchain/">Desert Blockchain Meetup</a>
 	<p></p>
 	<address>
-		Contact <a href="mailto:">Desert Blockchain</a>
+		Contact <a href="mailto:JayCarpenter@DesertBlockchain.com">Desert Blockchain</a>
 	</address>
