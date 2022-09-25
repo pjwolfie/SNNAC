@@ -12,7 +12,7 @@
 	</body>
 	<article>
 	<h2>Project Goals:</h2>
-		<li><a>Allow Access to Activities, Group and Special Events</a>
+		<li><a>Allow Access to Group Activities and Special Events</a>
 		<li><a>Create Community Experiences</a>
 		<li><a>Encourage Participation and Growth in Emerging Technologies</a>
 		<li><a>Provide Value to Desert Blockchain Citizen Members</a>
