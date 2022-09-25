@@ -26,7 +26,7 @@
 </section>
 <p></p>
 <aside>
-	Create Sidebar To Previous and Upcoming Activites
+	Previous and Upcoming Activites
 </aside>
 <footer>
 	<p></p>
