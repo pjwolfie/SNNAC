@@ -11,7 +11,7 @@
 		<iframe width="350" height="250" src="https://www.youtube.com/embed/Y_vGJ4IYsvQ" title="Stellar NFT NFC Access Control (SNNAC) Project for SCF#11" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</body>
 	<article>
-	<h2>Project Goals adn Objectives:</h2>
+	<h2>Project Goals and Objectives:</h2>
 		<li><a>Allow Access to Group Activities and Special Events</a>
 		<li><a>Create Community Experiences</a>
 		<li><a>Encourage Participation and Growth in Emerging Technologies</a>
