@@ -21,7 +21,7 @@
 <article>
 	<h2>Timeline and Milestones:</h2>
 	<p>9/17/22 & 9/24/22 - Meet to discuss overall project goals and Stellar Community Fund (SCF) #11 Application Submission</p>
-	<img src="SNNAC-NFT-Logo2.jpg" width="75" Height="300"><img src="SNNAC-Refrigerator2.jpg">
+	<img src="SNNAC-NFT-Logo2.jpg" width="150" Height="300"><img src="SNNAC-Refrigerator2.jpg">
 	<p>9/25/22 - Submit SCF #11 Application</p>
 	<p></p>
 <p></p>
